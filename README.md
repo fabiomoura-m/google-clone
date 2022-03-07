@@ -4,7 +4,7 @@
 
 ## 📋 Descrição do projeto
 
-Um clone simples da página do google para treinar html e css.
+Um clone simples da página do google para treinar html e css. Adicionado formulário para que a pesquisa funcione, redirecionando o usuário ao site do google com a pesquisa realizada.
 
 ## 🛠️ Ferramentas utilizadas
 

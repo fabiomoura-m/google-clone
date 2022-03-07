@@ -45,3 +45,17 @@ header {
   border-radius: 100%;
   cursor: pointer;
 }
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-height: 290px;
+  height: calc(100vh - 560px);
+  border: 1px solid black;
+}
+.logo {
+  margin-top: auto;
+}
+.logo img {
+  height: 92px;
+}

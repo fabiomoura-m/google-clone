@@ -157,3 +157,18 @@ footer {
 .footer-nav a:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 806px) {
+  .footer-nav {
+    justify-content: center;
+  }
+  .footer-nav > div {
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 585px) {
+  .search-icons-right img {
+    margin-right: 5px;
+  }
+}

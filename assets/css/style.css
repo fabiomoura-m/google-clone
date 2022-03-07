@@ -70,13 +70,19 @@ header {
   border-radius: 50px;
   border: 1px solid #dfe1e5;
 }
-
-.search input {
+.search form {
+  max-width: 450px;
+  width: 100%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.search form input {
   border: none;
   outline: 0;
   max-width: 450px;
   width: 100%;
   margin-left: 10px;
+
   font-size: 16px;
 }
 
